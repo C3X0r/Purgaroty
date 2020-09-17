@@ -2,3 +2,28 @@
     infinte while loop, it cant break out of - this implementation is because Logging of windows messages is done for the code sandwiched between "startLog()" and "endLog" functions respectively.
 [+] Fix bitwise implementation of arguements of the "startLog" function.
 [+] Fix memory leak , most probably caused by some handle not closing properly.     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
