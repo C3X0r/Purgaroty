@@ -4,7 +4,9 @@
     
 [+] Fix bitwise implementation of arguements of the "startLog" function.
 
-[+] Fix memory leak , most probably caused by some handle not closing properly.     
+[+] Fix memory leak , most probably caused by some handle not closing properly.   
+
+[+] Revamp logging functionality keeping mutex in mind
 
 
 
